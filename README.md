@@ -2,18 +2,19 @@
 
 ## Course
 * [Intel](https://www.intel.com/content/www/us/en/developer/overview.html)
-* [Hackaday](https://hackaday.io/courses)
 
-## Learning
+## Tools
+* [riscv](https://riscv.org/risc-v-learn-online/)
+
+## Hacking
+* [Hackaday](https://hackaday.io/courses)
+* [Hak 5](https://hak5.org/blogs/guides)
 * [nozomi networks](https://www.nozominetworks.com/)
 * [lucasteske blog](https://lucasteske.dev/)
 * [HackaDay](https://hackaday.com/)
 * [hardwear](https://hardwear.io/webinar/)
 * [Cyber Deck](https://cyberdeck.cafe/)
-
-## Tools
-* [riscv](https://riscv.org/risc-v-learn-online/)
-
+ 
 # Virtualization
 
 ## Tools
