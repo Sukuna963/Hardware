@@ -16,8 +16,6 @@
 * [Cyber Deck](https://cyberdeck.cafe/)
  
 # Virtualization
-
-## Tools
 * [LLVM](https://llvm.org/)
 * [Xen](https://xenproject.org/)
 * [VirtualBox](https://www.virtualbox.org/)
