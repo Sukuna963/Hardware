@@ -27,3 +27,6 @@
 * [Car Hacking Book](http://www.opengarages.org/handbook/)
 * [Vbox Automotive](https://www.vboxautomotive.co.uk/index.php/en/)
 * [CanBusHack](https://canbushack.com/index.html)
+
+# IOT
+* [edgex foundry](https://www.edgexfoundry.org/)
