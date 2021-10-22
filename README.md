@@ -9,7 +9,7 @@
 ## Tools
 * [riscv](https://riscv.org/risc-v-learn-online/)
 * [Asylo](https://asylo.dev/)
-* [OpenEnclave](https://github.com/openenclave/openenclave)
+* [OpenEnclave](https://openenclave.io/sdk/)
 
 ## Hacking
 * [Hackaday](https://hackaday.io/courses)
