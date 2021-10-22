@@ -1,7 +1,8 @@
 # Hardware
 
-## Course
+## Learning
 * [Intel](https://www.intel.com/content/www/us/en/developer/overview.html)
+* [Processadores XuanTie](https://github.com/orgs/T-head-Semi/repositories)
 
 ## Tools
 * [riscv](https://riscv.org/risc-v-learn-online/)
