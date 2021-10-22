@@ -4,9 +4,12 @@
 * [Intel](https://www.intel.com/content/www/us/en/developer/overview.html)
 * [Processadores XuanTie](https://github.com/orgs/T-head-Semi/repositories)
 * [Projetos Risc-V](https://riscv.org/exchange/cores-socs/)
+* [Vulnerability SmashEx](https://jasonyu1996.github.io/SmashEx/)
 
 ## Tools
 * [riscv](https://riscv.org/risc-v-learn-online/)
+* [Asylo](https://asylo.dev/)
+* [OpenEnclave](https://github.com/openenclave/openenclave)
 
 ## Hacking
 * [Hackaday](https://hackaday.io/courses)
