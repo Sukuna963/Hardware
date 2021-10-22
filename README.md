@@ -3,6 +3,7 @@
 ## Learning
 * [Intel](https://www.intel.com/content/www/us/en/developer/overview.html)
 * [Processadores XuanTie](https://github.com/orgs/T-head-Semi/repositories)
+* [Projetos Risc-V](https://riscv.org/exchange/cores-socs/)
 
 ## Tools
 * [riscv](https://riscv.org/risc-v-learn-online/)
