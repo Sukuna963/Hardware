@@ -9,9 +9,10 @@
 * [Remote Memory-Deduplication Attacks](https://arxiv.org/abs/2111.08553)
 
 ## Tools
-* [riscv](https://riscv.org/risc-v-learn-online/)
+* [Riscv](https://riscv.org/risc-v-learn-online/)
 * [Asylo](https://asylo.dev/)
 * [OpenEnclave](https://openenclave.io/sdk/)
+* [Coreboot](https://doc.coreboot.org/index.html)
 
 ## Hacking
 * [Hackaday](https://hackaday.io/courses)
