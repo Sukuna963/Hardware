@@ -5,6 +5,7 @@
 * [Processadores XuanTie](https://github.com/orgs/T-head-Semi/repositories)
 * [Projetos Risc-V](https://riscv.org/exchange/cores-socs/)
 * [Vulnerability SmashEx](https://jasonyu1996.github.io/SmashEx/)
+* [Universal Scalable Firmware](https://universalscalablefirmware.github.io/documentation/1_terminology.html#terminology)
 
 ## Tools
 * [riscv](https://riscv.org/risc-v-learn-online/)
