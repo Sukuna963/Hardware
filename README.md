@@ -23,6 +23,7 @@
 * [hardwear](https://hardwear.io/webinar/)
 * [Cyber Deck](https://cyberdeck.cafe/)
 * [Kasper](https://github.com/vusec/kasper)
+* [Hackaday.io](https://hackaday.io/courses)
  
 # Virtualization
 * [LLVM](https://llvm.org/)
