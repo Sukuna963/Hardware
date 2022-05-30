@@ -7,6 +7,7 @@
 * [Vulnerability SmashEx](https://jasonyu1996.github.io/SmashEx/)
 * [Universal Scalable Firmware](https://universalscalablefirmware.github.io/documentation/1_terminology.html#terminology)
 * [Remote Memory-Deduplication Attacks](https://arxiv.org/abs/2111.08553)
+* [OpenInfra](https://openinfra.dev/)
 
 ## Tools
 * [Riscv](https://riscv.org/risc-v-learn-online/)
