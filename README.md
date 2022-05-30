@@ -42,3 +42,4 @@
 
 # IOT
 * [edgex foundry](https://www.edgexfoundry.org/)
+* [Zephyr](https://zephyrproject.org/)
